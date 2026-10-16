@@ -1,7 +1,6 @@
 # Project Manager Hub
 
 [![Marketplace](https://img.shields.io/badge/Marketplace-Project%20Manager%20Hub-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=jenesei-software.project-manager-hub)
-[![Version](https://img.shields.io/badge/version-1.1.0-2ea44f)](CHANGELOG.md)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2ea44f)](package.json)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
@@ -11,6 +10,10 @@ working-tree changes and the last commit - ranks them by how recently and often
 you actually use them, and groups them by folder, tag or remote.
 
 Everything is local: no network, no tokens, read-only Git queries.
+
+## 🚀 ACTUAL VERSIONS
+
+- `1.1.0`
 
 ## Screenshots
 
