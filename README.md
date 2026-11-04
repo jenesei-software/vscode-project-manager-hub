@@ -11,10 +11,6 @@ you actually use them, and groups them by folder, tag or remote.
 
 Everything is local: no network, no tokens, read-only Git queries.
 
-## 🚀 ACTUAL VERSIONS
-
-- `1.1.0`
-
 ## Screenshots
 
 <table>
